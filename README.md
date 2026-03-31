@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://www.dropbox.com/scl/fi/g83ettc1syclvbpfb7d2t/Skill.gif?raw=1" alt="Banner" width="100%" />
+<img src="https://github.com/A-Santhosh-Hub/in/blob/main/work.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I’m currently working on Web Projects
