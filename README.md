@@ -47,6 +47,8 @@ GitHub: https://github.com/A-Santhosh-Hub
 
 👨‍💻 Devaguru K (Co-Developer)  
 GitHub: https://github.com/Deva-Guru
+🔗 Visit  portfolio website 👉 : https://deva-guru.github.io/HTML/in.html
+
 
 👨‍💻 Viknesh (Co-Developer)  
 GitHub: https://github.com/viknesh4761
