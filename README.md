@@ -46,7 +46,8 @@
     <img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-------------------------
+
+
 <p align="center">
   <img src="https://github.com/A-Santhosh-Hub/A-Santhosh-Hub/blob/main/SanStudio.gif" />
 </p>
