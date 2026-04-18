@@ -1,4 +1,4 @@
-<p align="center">
+use<p align="center">
   <img src="https://github.com/A-Santhosh-Hub/A-Santhosh-Hub/blob/main/SANTHOSH.gif" />
 </p>
 
@@ -148,6 +148,6 @@ Share with others
 Credit SanStudio in your work  
 
 
----
+-----
 
 ### Built with ❤️ by SanStudio Team
