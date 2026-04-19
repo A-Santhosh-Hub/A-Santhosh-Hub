@@ -1,5 +1,5 @@
-use<p align="center">
-  <img src="https://github.com/A-Santhosh-Hub/A-Santhosh-Hub/blob/main/SANTHOSH.gif" />
+<p align="center">
+  <img src="https://github.com/A-Santhosh-Hub/A-Santhosh-Hub/blob/main/SAN 3.gif" />
 </p>
 
 
