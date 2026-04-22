@@ -150,4 +150,4 @@ Credit SanStudio in your work
 
 -----
 
-### Built with ❤️ by SanStudio Team
+### Built with ❤️ by SanStudio Company 
