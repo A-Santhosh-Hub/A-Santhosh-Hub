@@ -60,7 +60,7 @@
 
 # 🚀 SanStudio Open Source Projects
 
-🔗 Visit  portfolio website 👉 : https://sanstudio-hub.github.io/SanStudio-Hub/in
+🔗 Visit  portfolio website 👉 : https://sanstudio-hub.github.io/in/
 
 Welcome to the official open-source projects by **SanStudio**.
 
