@@ -71,6 +71,11 @@ GitHub: https://github.com/A-Santhosh-Hub
 🔗 Visit  portfolio website 👉 : https://a-santhosh-hub.github.io/in/
 
 
+👨‍💻 Sanjeev S ( Co-Founder FullStack Developer )
+GitHub:  https://github.com/Sanjeev-6750
+
+
+
 👨‍💻 Devaguru K (Co-Developer)  
 GitHub: https://github.com/Deva-Guru
 🔗 Visit  portfolio website 👉 : https://deva-guru.github.io/HTML/in.html
