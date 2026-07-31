@@ -155,6 +155,6 @@ Credit SanStudio in your work
 
 --------------
 
-### Built with ❤️ by SanStudio Company 
+### Built with ❤️ by SanStudio Company® 
 
 --------------
