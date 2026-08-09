@@ -152,10 +152,6 @@ Give a ⭐ on GitHub
 Share with others  
 Credit SanStudio in your work  
 ----------
-# THE DOOM'S BRAND NEW DAY  
-
---------------
-
 ### Built with ❤️ by SanStudio Company® 
 
 ------------
